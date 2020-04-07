@@ -1,2 +1,3 @@
+misc_python_env/
 *.csv
-env
+.env
